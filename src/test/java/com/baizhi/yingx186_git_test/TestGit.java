@@ -8,5 +8,6 @@ public class TestGit {
         System.out.println("dev 分支添加");
         int a=10;
         int b=20;
+        System.out.println("idea  代码");
     }
 }
