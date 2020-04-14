@@ -13,6 +13,7 @@ public class Yingx186GitTestApplicationTests {
     public void contextLoads() {
 
         System.out.println("======");
+        System.out.println("------");
 
     }
 
