@@ -10,5 +10,6 @@ public class TestGit {
         int b=20;
         System.out.println("idea  代码");
         System.out.println("最后添加代码");
+        System.out.println("Github 最后添加代码");
     }
 }
