@@ -11,6 +11,9 @@ public class Yingx186GitTestApplicationTests {
 
     @Test
     public void contextLoads() {
+
+        System.out.println("======");
+
     }
 
 }
